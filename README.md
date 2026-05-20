@@ -1,21 +1,16 @@
-🧮 Calculadora com React
+Este projeto foi desenvolvido durante o curso de React da plataforma DIO (Digital Innovation One), no desafio:
 
-📌 Sobre o projeto
+🧮 Criando uma Calculadora com React
 
-Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais do React JS, como componentização, gerenciamento de estados com Hooks e manipulação de eventos.
+O objetivo do projeto foi praticar conceitos importantes do React JS, como:
 
-A aplicação simula uma calculadora funcional, realizando operações matemáticas básicas de forma dinâmica e interativa.
+- Componentização
+- Estados com Hooks
+- Manipulação de eventos
+- Estilização de componentes
+- Lógica de operações matemáticas
 
-Além da lógica da calculadora, o projeto também foi importante para desenvolver conhecimentos em organização de componentes, estilização da interface e boas práticas no React.
-
-
-🚀 Tecnologias utilizadas
-
-- React JS
-- JavaScript
-- Styled Components
-- HTML5
-- CSS3
+Além de reforçar boas práticas no desenvolvimento front-end.
 
 ⚙️ Funcionalidades
 
