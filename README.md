@@ -108,7 +108,7 @@ Experiência fluida no mobile
 
 ⬡ *Como Executar*
 
-git clone https://github.com/seu-user/seu-repo.git
+git clone https://github.com/EVI-DEV1/CURSO.REACT.NATIVE
 
 cd calculadora-react-native
 
